@@ -6,8 +6,6 @@ games = data_frame.to_dict(orient="records")
 
 teams = {}
 
-count = 0
-
 for game in games:
     home = game["home_team"]
     away = game["away_team"]
@@ -32,14 +30,26 @@ for game in games:
     teams[away]["goals_against"] += home_goals
     teams[home]["goals_against"] += away_goals
     
-    count += 1
+best = ("???", -1)
+worst = ("???", 1000)
     
+for team in teams.values():
+    avg_goals = round(team["goals_for"] / team["games"], 2)
+    avg_conceded = round(team["goals_against"] / team["games"], 2)
     
+    team["average_goals_per_game"] = avg_goals
+    team["average_conceded_per_game"] = avg_conceded
     
-# reset_index() to have the country names as indexes btw
+    if(avg_goals > best[1]):
+        best = (team["name"], avg_goals)
+        
+    if(avg_conceded < worst[1]):
+        worst = (team["name"], avg_conceded)
+    
+
+print(best)
+print(worst)
+
 teams_data_frame = pd.DataFrame.from_dict(teams, orient='index')
-
-print(count)
-
 
 teams_data_frame.to_csv("data/teams.csv", index=False)
