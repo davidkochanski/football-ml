@@ -1,337 +1,337 @@
-name,games,goals_for,goals_against,average_goals_per_game,average_conceded_per_game
-Scotland,831,1420.0,1026.0,1.71,1.23
-England,1066,2328.0,1028.0,2.18,0.96
-Wales,706,876.0,1136.0,1.24,1.61
-Northern Ireland,687,716.0,1273.0,1.04,1.85
-United States,755,1142.0,983.0,1.51,1.3
-Canada,439,562.0,581.0,1.28,1.32
-Uruguay,942,1502.0,1157.0,1.59,1.23
-Argentina,1043,1971.0,1063.0,1.89,1.02
-Austria,838,1487.0,1296.0,1.77,1.55
-Hungary,985,1984.0,1450.0,2.01,1.47
-Czechoslovakia,501,925.0,694.0,1.85,1.39
-Belgium,826,1477.0,1260.0,1.79,1.53
-France,905,1644.0,1160.0,1.82,1.28
-Switzerland,860,1274.0,1415.0,1.48,1.65
-Guernsey,240,616.0,313.0,2.57,1.3
-Alderney,135,73.0,620.0,0.54,4.59
-Jersey,232,639.0,280.0,2.75,1.21
-Netherlands,848,1760.0,1036.0,2.08,1.22
-Germany,1006,2247.0,1168.0,2.23,1.16
-Sweden,1075,2111.0,1378.0,1.96,1.28
-Norway,848,1289.0,1382.0,1.52,1.63
-Italy,863,1498.0,835.0,1.74,0.97
-Chile,812,1146.0,1155.0,1.41,1.42
-Finland,794,936.0,1627.0,1.18,2.05
-Luxembourg,448,289.0,1176.0,0.65,2.62
-Catalonia,48,75.0,84.0,1.56,1.75
-Russia,726,1250.0,701.0,1.72,0.97
-Denmark,849,1518.0,1147.0,1.79,1.35
-Philippines,329,380.0,778.0,1.16,2.36
-China PR,696,1306.0,750.0,1.88,1.08
-Brazil,1037,2264.0,934.0,2.18,0.9
-Basque Country,58,156.0,76.0,2.69,1.31
-Japan,778,1411.0,935.0,1.81,1.2
-Paraguay,762,977.0,1091.0,1.28,1.43
-Estonia,530,526.0,939.0,0.99,1.77
-Provence,19,47.0,54.0,2.47,2.84
-Costa Rica,696,1183.0,816.0,1.7,1.17
-El Salvador,591,743.0,907.0,1.26,1.53
-Guatemala,527,741.0,717.0,1.41,1.36
-Yugoslavia,483,941.0,749.0,1.95,1.55
-Poland,871,1465.0,1167.0,1.68,1.34
-Spain,754,1530.0,675.0,2.03,0.9
-Portugal,673,1179.0,758.0,1.75,1.13
-Brittany,12,18.0,15.0,1.5,1.25
-Romania,743,1200.0,945.0,1.62,1.27
-New Zealand,394,678.0,599.0,1.72,1.52
-Australia,561,1138.0,602.0,2.03,1.07
-Latvia,442,531.0,731.0,1.2,1.65
-Galicia,10,19.0,20.0,1.9,2.0
-Central Spain,2,2.0,4.0,1.0,2.0
-Mexico,972,1722.0,1031.0,1.77,1.06
-Andalusia,13,25.0,14.0,1.92,1.08
-Asturias,1,3.0,1.0,3.0,1.0
-Lithuania,413,418.0,751.0,1.01,1.82
-Turkey,620,854.0,879.0,1.38,1.42
-Aruba,138,180.0,327.0,1.3,2.37
-Curaçao,363,590.0,585.0,1.63,1.61
-Bulgaria,715,992.0,1064.0,1.39,1.49
-Egypt,727,1184.0,747.0,1.63,1.03
-Republic of Ireland,612,832.0,744.0,1.36,1.22
-South Africa,456,610.0,435.0,1.34,0.95
-Haiti,488,783.0,662.0,1.6,1.36
-Jamaica,631,841.0,839.0,1.33,1.33
-Kenya,686,954.0,934.0,1.39,1.36
-Uganda,666,999.0,785.0,1.5,1.18
-Bolivia,508,523.0,998.0,1.03,1.96
-Peru,676,820.0,957.0,1.21,1.42
-Honduras,596,876.0,770.0,1.47,1.29
-Guyana,296,393.0,518.0,1.33,1.75
-Trinidad and Tobago,723,1230.0,946.0,1.7,1.31
-Belarus,295,335.0,434.0,1.14,1.47
-Ukraine,318,445.0,325.0,1.4,1.02
-Barbados,288,364.0,500.0,1.26,1.74
-Nicaragua,204,222.0,504.0,1.09,2.47
-Greece,609,757.0,825.0,1.24,1.35
-Cuba,380,512.0,576.0,1.35,1.52
-Martinique,321,580.0,419.0,1.81,1.31
-Dominica,201,238.0,406.0,1.18,2.02
-Silesia,8,24.0,17.0,3.0,2.12
-Guadeloupe,260,448.0,376.0,1.72,1.45
-Israel,480,722.0,702.0,1.5,1.46
-Indonesia,705,1187.0,1145.0,1.68,1.62
-Suriname,377,721.0,539.0,1.91,1.43
-French Guiana,173,260.0,295.0,1.5,1.71
-Saint Lucia,219,316.0,406.0,1.44,1.85
-Colombia,610,773.0,710.0,1.27,1.16
-Panama,508,629.0,777.0,1.24,1.53
-Venezuela,437,457.0,821.0,1.05,1.88
-Ecuador,567,692.0,893.0,1.22,1.57
-Saint Kitts and Nevis,209,353.0,334.0,1.69,1.6
-Grenada,243,397.0,456.0,1.63,1.88
-India,519,721.0,843.0,1.39,1.62
-Slovakia,345,491.0,429.0,1.42,1.24
-Manchukuo,3,0.0,16.0,0.0,5.33
-Croatia,376,647.0,379.0,1.72,1.01
-Lebanon,319,360.0,461.0,1.13,1.45
-Puerto Rico,148,183.0,354.0,1.24,2.39
-Afghanistan,137,138.0,278.0,1.01,2.03
-Iran,594,1122.0,470.0,1.89,0.79
-Mongolia,97,114.0,299.0,1.18,3.08
-Tanzania,576,642.0,859.0,1.11,1.49
-Zimbabwe,474,639.0,566.0,1.35,1.19
-Zambia,778,1225.0,828.0,1.57,1.06
-Iceland,501,601.0,834.0,1.2,1.66
-Albania,378,360.0,571.0,0.95,1.51
-Montenegro,150,178.0,199.0,1.19,1.33
-Madagascar,304,415.0,457.0,1.37,1.5
-Mauritius,316,408.0,509.0,1.29,1.61
-Réunion,124,219.0,220.0,1.77,1.77
-Zanzibar,205,187.0,434.0,0.91,2.12
-Djibouti,105,73.0,386.0,0.7,3.68
-Ethiopia,395,536.0,572.0,1.36,1.45
-DR Congo,498,742.0,607.0,1.49,1.22
-South Korea,990,1761.0,899.0,1.78,0.91
-Vietnam,279,450.0,388.0,1.61,1.39
-Macau,139,111.0,429.0,0.8,3.09
-Dominican Republic,139,218.0,228.0,1.57,1.64
-Cyprus,406,350.0,891.0,0.86,2.19
-Sierra Leone,286,274.0,396.0,0.96,1.38
-Nigeria,631,955.0,637.0,1.51,1.01
-Syria,466,661.0,620.0,1.42,1.33
-Serbia,326,512.0,349.0,1.57,1.07
-Taiwan,225,290.0,569.0,1.29,2.53
-Ghana,654,1038.0,681.0,1.59,1.04
-Burma,7,14.0,17.0,2.0,2.43
-New Caledonia,258,686.0,361.0,2.66,1.4
-Vanuatu,202,385.0,434.0,1.91,2.15
-Fiji,252,593.0,403.0,2.35,1.6
-Myanmar,490,785.0,799.0,1.6,1.63
-Pakistan,239,224.0,564.0,0.94,2.36
-Sri Lanka,233,225.0,547.0,0.97,2.35
-German DR,298,506.0,361.0,1.7,1.21
-Tahiti,236,650.0,359.0,2.75,1.52
-Gambia,249,248.0,345.0,1.0,1.39
-Hong Kong,425,600.0,717.0,1.41,1.69
-Singapore,675,903.0,1238.0,1.34,1.83
-Malaysia,814,1330.0,1182.0,1.63,1.45
-Guinea-Bissau,174,179.0,257.0,1.03,1.48
-Saarland,9,10.0,26.0,1.11,2.89
-Burundi,203,227.0,272.0,1.12,1.34
-Kernow,12,32.0,19.0,2.67,1.58
-Cambodia,281,308.0,738.0,1.1,2.63
-Thailand,840,1329.0,1258.0,1.58,1.5
-Vietnam Republic,195,364.0,312.0,1.87,1.6
-Kyrgyzstan,177,206.0,297.0,1.16,1.68
-Moldova,279,225.0,476.0,0.81,1.71
-North Vietnam,24,49.0,52.0,2.04,2.17
-Togo,431,473.0,599.0,1.1,1.39
-North Korea,376,611.0,410.0,1.62,1.09
-Sudan,446,498.0,607.0,1.12,1.36
-Malta,441,283.0,999.0,0.64,2.27
-Tunisia,650,931.0,663.0,1.43,1.02
-Libya,369,486.0,453.0,1.32,1.23
-Malawi,627,738.0,811.0,1.18,1.29
-Morocco,583,833.0,484.0,1.43,0.83
-Malaya,2,2.0,8.0,1.0,4.0
-Benin,304,333.0,532.0,1.1,1.75
-Cape Verde,214,231.0,243.0,1.08,1.14
-Cameroon,595,848.0,632.0,1.43,1.06
-Central African Republic,124,139.0,233.0,1.12,1.88
-Mali,550,724.0,620.0,1.32,1.13
-Gabon,386,446.0,456.0,1.16,1.18
-Burkina Faso,438,535.0,599.0,1.22,1.37
-Ivory Coast,614,1003.0,627.0,1.63,1.02
-Congo,399,524.0,588.0,1.31,1.47
-Iraq,628,979.0,584.0,1.56,0.93
-Saint Vincent and the Grenadines,216,329.0,418.0,1.52,1.94
-Senegal,611,825.0,583.0,1.35,0.95
-Laos,212,213.0,668.0,1.0,3.15
-Mauritania,251,185.0,406.0,0.74,1.62
-Liberia,285,250.0,418.0,0.88,1.47
-Chad,122,108.0,209.0,0.89,1.71
-Niger,240,228.0,398.0,0.95,1.66
-Guinea,522,709.0,646.0,1.36,1.24
-Algeria,586,881.0,596.0,1.5,1.02
-Kuwait,661,1041.0,728.0,1.57,1.1
-Jordan,450,569.0,501.0,1.26,1.11
-Papua New Guinea,146,320.0,298.0,2.19,2.04
-Solomon Islands,202,446.0,388.0,2.21,1.92
-Somalia,116,60.0,318.0,0.52,2.74
-Saudi Arabia,706,1099.0,738.0,1.56,1.05
-Bermuda,180,296.0,303.0,1.64,1.68
-Palestine,225,308.0,324.0,1.37,1.44
-Yemen,255,231.0,566.0,0.91,2.22
-Bahrain,560,702.0,719.0,1.25,1.28
-Oman,516,678.0,653.0,1.31,1.27
-Wallis Islands and Futuna,24,23.0,109.0,0.96,4.54
-Corsica,9,10.0,5.0,1.11,0.56
-Western Australia,32,63.0,75.0,1.97,2.34
-Eswatini,262,224.0,429.0,0.85,1.64
-Botswana,315,257.0,398.0,0.82,1.26
-Qatar,611,866.0,722.0,1.42,1.18
-Lesotho,281,221.0,441.0,0.79,1.57
-Bahamas,57,63.0,174.0,1.11,3.05
-Brunei,126,100.0,425.0,0.79,3.37
-Cook Islands,52,42.0,261.0,0.81,5.02
-Yemen DPR,25,25.0,69.0,1.0,2.76
-United Arab Emirates,588,834.0,733.0,1.42,1.25
-Faroe Islands,268,220.0,626.0,0.82,2.34
-Nepal,257,222.0,587.0,0.86,2.28
-Antigua and Barbuda,221,303.0,401.0,1.37,1.81
-Bangladesh,291,261.0,540.0,0.9,1.86
-Seychelles,170,135.0,367.0,0.79,2.16
-Equatorial Guinea,158,140.0,227.0,0.89,1.44
-Mozambique,355,364.0,453.0,1.03,1.28
-Guam,115,129.0,579.0,1.12,5.03
-Angola,396,447.0,411.0,1.13,1.04
-São Tomé and Príncipe,65,49.0,166.0,0.75,2.55
-Rwanda,264,276.0,317.0,1.05,1.2
-Northern Cyprus,34,98.0,31.0,2.88,0.91
-Armenia,253,255.0,451.0,1.01,1.78
-Georgia,286,350.0,401.0,1.22,1.4
-Azerbaijan,290,222.0,475.0,0.77,1.64
-Kazakhstan,248,292.0,407.0,1.18,1.64
-Comoros,126,108.0,212.0,0.86,1.68
-Maldives,220,269.0,501.0,1.22,2.28
-Tonga,66,77.0,250.0,1.17,3.79
-Kiribati,11,7.0,126.0,0.64,11.45
-Tuvalu,39,45.0,208.0,1.15,5.33
-Samoa,60,92.0,186.0,1.53,3.1
-Greenland,76,145.0,154.0,1.91,2.03
-Liechtenstein,239,98.0,673.0,0.41,2.82
-Western Samoa,6,2.0,47.0,0.33,7.83
-Bhutan,101,58.0,380.0,0.57,3.76
-South Yemen,3,1.0,8.0,0.33,2.67
-Niue,2,0.0,33.0,0.0,16.5
-American Samoa,52,31.0,344.0,0.6,6.62
-Belize,107,109.0,206.0,1.02,1.93
-Cayman Islands,106,105.0,265.0,0.99,2.5
-Anguilla,79,42.0,320.0,0.53,4.05
-British Virgin Islands,109,96.0,340.0,0.88,3.12
-Palau,2,4.0,21.0,2.0,10.5
-Sint Maarten,50,75.0,131.0,1.5,2.62
-Namibia,263,261.0,375.0,0.99,1.43
-Ynys Môn,65,123.0,96.0,1.89,1.48
-Shetland,55,97.0,108.0,1.76,1.96
-Åland Islands,51,77.0,86.0,1.51,1.69
-Saint Martin,56,84.0,144.0,1.5,2.57
-San Marino,205,33.0,835.0,0.16,4.07
-Montserrat,58,68.0,182.0,1.17,3.14
-Slovenia,295,373.0,346.0,1.26,1.17
-Isle of Wight,48,113.0,60.0,2.35,1.25
-Turkmenistan,169,250.0,261.0,1.48,1.54
-Tajikistan,186,273.0,262.0,1.47,1.41
-Uzbekistan,334,588.0,378.0,1.76,1.13
-Eritrea,71,48.0,121.0,0.68,1.7
-Czech Republic,349,620.0,353.0,1.78,1.01
-Gibraltar,141,160.0,359.0,1.13,2.55
-Isle of Man,53,163.0,80.0,3.08,1.51
-North Macedonia,286,341.0,391.0,1.19,1.37
-Bosnia and Herzegovina,263,359.0,358.0,1.37,1.36
-Canary Islands,4,11.0,3.0,2.75,0.75
-Andorra,208,68.0,512.0,0.33,2.46
-Frøya,33,59.0,124.0,1.79,3.76
-Hitra,19,24.0,82.0,1.26,4.32
-United States Virgin Islands,70,40.0,276.0,0.57,3.94
-Northern Mariana Islands,30,27.0,129.0,0.9,4.3
-Turks and Caicos Islands,46,46.0,174.0,1.0,3.78
-Micronesia,7,8.0,59.0,1.14,8.43
-Gotland,30,81.0,57.0,2.7,1.9
-Saare County,35,41.0,89.0,1.17,2.54
-Rhodes,18,29.0,19.0,1.61,1.06
-Monaco,24,41.0,88.0,1.71,3.67
-Tibet,16,14.0,66.0,0.88,4.12
-Orkney,24,28.0,77.0,1.17,3.21
-Falkland Islands,33,31.0,121.0,0.94,3.67
-Mayotte,38,51.0,56.0,1.34,1.47
-Vatican City,7,4.0,17.0,0.57,2.43
-Timor-Leste,68,60.0,233.0,0.88,3.43
-Sark,4,0.0,70.0,0.0,17.5
-Sealand,12,27.0,30.0,2.25,2.5
-Occitania,33,103.0,38.0,3.12,1.15
-Chechnya,3,3.0,29.0,1.0,9.67
-Ambazonia,6,3.0,17.0,0.5,2.83
-Western Isles,32,48.0,73.0,1.5,2.28
-Kosovo,84,114.0,118.0,1.36,1.4
-Republic of St. Pauli,4,10.0,5.0,2.5,1.25
-Găgăuzia,3,2.0,9.0,0.67,3.0
-Crimea,5,7.0,11.0,1.4,2.2
-Sápmi,29,90.0,54.0,3.1,1.86
-Romani people,7,13.0,26.0,1.86,3.71
-Menorca,25,56.0,32.0,2.24,1.28
-Iraqi Kurdistan,27,61.0,27.0,2.26,1.0
-Padania,44,120.0,33.0,2.73,0.75
-Arameans Suryoye,10,16.0,12.0,1.6,1.2
-Gozo,11,28.0,23.0,2.55,2.09
-Two Sicilies,6,3.0,18.0,0.5,3.0
-Saint Barthélemy,10,25.0,30.0,2.5,3.0
-Saint Pierre and Miquelon,7,2.0,78.0,0.29,11.14
-Bonaire,32,53.0,84.0,1.66,2.62
-Chagos Islands,16,28.0,76.0,1.75,4.75
-Raetia,26,43.0,103.0,1.65,3.96
-Cilento,1,0.0,2.0,0.0,2.0
-Western Sahara,5,11.0,16.0,2.2,3.2
-Darfur,7,1.0,99.0,0.14,14.14
-Tamil Eelam,24,58.0,60.0,2.42,2.5
-South Sudan,65,42.0,117.0,0.65,1.8
-Abkhazia,32,51.0,26.0,1.59,0.81
-Artsakh,11,32.0,14.0,2.91,1.27
-Madrid,1,1.0,2.0,1.0,2.0
-Saugeais,1,1.0,1.0,1.0,1.0
-Ellan Vannin,22,54.0,32.0,2.45,1.45
-Somaliland,6,14.0,20.0,2.33,3.33
-Franconia,3,8.0,11.0,2.67,3.67
-South Ossetia,16,35.0,34.0,2.19,2.12
-County of Nice,9,19.0,13.0,2.11,1.44
-Seborga,1,2.0,3.0,2.0,3.0
-Székely Land,27,56.0,56.0,2.07,2.07
-Luhansk PR,6,9.0,12.0,1.5,2.0
-Donetsk PR,6,8.0,7.0,1.33,1.17
-Felvidék,12,14.0,20.0,1.17,1.67
-Panjab,19,54.0,30.0,2.84,1.58
-Western Armenia,16,34.0,20.0,2.12,1.25
-United Koreans in Japan,12,20.0,11.0,1.67,0.92
-Kárpátalja,11,25.0,13.0,2.27,1.18
-Délvidék,2,4.0,3.0,2.0,1.5
-Barawa,12,16.0,46.0,1.33,3.83
-Ryūkyū,1,0.0,9.0,0.0,9.0
-Yorkshire,7,27.0,11.0,3.86,1.57
-Surrey,1,3.0,1.0,3.0,1.0
-Cascadia,7,23.0,14.0,3.29,2.0
-Matabeleland,8,7.0,14.0,0.88,1.75
-Kabylia,6,8.0,15.0,1.33,2.5
-Parishes of Jersey,3,11.0,4.0,3.67,1.33
-Chameria,7,14.0,8.0,2.0,1.14
-Saint Helena,8,6.0,41.0,0.75,5.12
-East Timor,4,0.0,13.0,0.0,3.25
-Yoruba Nation,2,1.0,2.0,0.5,1.0
-Biafra,3,2.0,1.0,0.67,0.33
-Mapuche,2,3.0,2.0,1.5,1.0
-Maule Sur,2,2.0,0.0,1.0,0.0
-Aymara,2,1.0,4.0,0.5,2.0
-Elba Island,1,5.0,0.0,5.0,0.0
-West Papua,1,1.0,1.0,1.0,1.0
-Ticino,2,2.0,13.0,1.0,6.5
-Hmong,3,6.0,10.0,2.0,3.33
+name,games,goals_for,goals_against,confederation,average_goals_per_game,average_conceded_per_game
+Scotland,831,1420.0,1026.0,UEFA,1.71,1.23
+England,1066,2328.0,1028.0,UEFA,2.18,0.96
+Wales,706,876.0,1136.0,UEFA,1.24,1.61
+Northern Ireland,687,716.0,1273.0,UEFA,1.04,1.85
+United States,755,1142.0,983.0,CONCACAF,1.51,1.3
+Canada,439,562.0,581.0,CONCACAF,1.28,1.32
+Uruguay,942,1502.0,1157.0,CONMEBOL,1.59,1.23
+Argentina,1043,1971.0,1063.0,CONMEBOL,1.89,1.02
+Austria,838,1487.0,1296.0,UEFA,1.77,1.55
+Hungary,985,1984.0,1450.0,UEFA,2.01,1.47
+Czechoslovakia,501,925.0,694.0,INVALID,1.85,1.39
+Belgium,826,1477.0,1260.0,UEFA,1.79,1.53
+France,905,1644.0,1160.0,UEFA,1.82,1.28
+Switzerland,860,1274.0,1415.0,UEFA,1.48,1.65
+Guernsey,240,616.0,313.0,INVALID,2.57,1.3
+Alderney,135,73.0,620.0,INVALID,0.54,4.59
+Jersey,232,639.0,280.0,INVALID,2.75,1.21
+Netherlands,848,1760.0,1036.0,UEFA,2.08,1.22
+Germany,1006,2247.0,1168.0,UEFA,2.23,1.16
+Sweden,1075,2111.0,1378.0,UEFA,1.96,1.28
+Norway,848,1289.0,1382.0,UEFA,1.52,1.63
+Italy,863,1498.0,835.0,UEFA,1.74,0.97
+Chile,812,1146.0,1155.0,CONMEBOL,1.41,1.42
+Finland,794,936.0,1627.0,UEFA,1.18,2.05
+Luxembourg,448,289.0,1176.0,UEFA,0.65,2.62
+Catalonia,48,75.0,84.0,INVALID,1.56,1.75
+Russia,726,1250.0,701.0,UEFA,1.72,0.97
+Denmark,849,1518.0,1147.0,UEFA,1.79,1.35
+Philippines,329,380.0,778.0,AFC,1.16,2.36
+China PR,696,1306.0,750.0,AFC,1.88,1.08
+Brazil,1037,2264.0,934.0,CONMEBOL,2.18,0.9
+Basque Country,58,156.0,76.0,INVALID,2.69,1.31
+Japan,778,1411.0,935.0,AFC,1.81,1.2
+Paraguay,762,977.0,1091.0,CONMEBOL,1.28,1.43
+Estonia,530,526.0,939.0,UEFA,0.99,1.77
+Provence,19,47.0,54.0,INVALID,2.47,2.84
+Costa Rica,696,1183.0,816.0,CONCACAF,1.7,1.17
+El Salvador,591,743.0,907.0,CONCACAF,1.26,1.53
+Guatemala,527,741.0,717.0,CONCACAF,1.41,1.36
+Yugoslavia,483,941.0,749.0,INVALID,1.95,1.55
+Poland,871,1465.0,1167.0,UEFA,1.68,1.34
+Spain,754,1530.0,675.0,UEFA,2.03,0.9
+Portugal,673,1179.0,758.0,UEFA,1.75,1.13
+Brittany,12,18.0,15.0,INVALID,1.5,1.25
+Romania,743,1200.0,945.0,UEFA,1.62,1.27
+New Zealand,394,678.0,599.0,OFC,1.72,1.52
+Australia,561,1138.0,602.0,AFC,2.03,1.07
+Latvia,442,531.0,731.0,UEFA,1.2,1.65
+Galicia,10,19.0,20.0,INVALID,1.9,2.0
+Central Spain,2,2.0,4.0,INVALID,1.0,2.0
+Mexico,972,1722.0,1031.0,CONCACAF,1.77,1.06
+Andalusia,13,25.0,14.0,INVALID,1.92,1.08
+Asturias,1,3.0,1.0,INVALID,3.0,1.0
+Lithuania,413,418.0,751.0,UEFA,1.01,1.82
+Turkey,620,854.0,879.0,UEFA,1.38,1.42
+Aruba,138,180.0,327.0,CONCACAF,1.3,2.37
+Curaçao,363,590.0,585.0,CONCACAF,1.63,1.61
+Bulgaria,715,992.0,1064.0,UEFA,1.39,1.49
+Egypt,727,1184.0,747.0,CAF,1.63,1.03
+Republic of Ireland,612,832.0,744.0,UEFA,1.36,1.22
+South Africa,456,610.0,435.0,CAF,1.34,0.95
+Haiti,488,783.0,662.0,CONCACAF,1.6,1.36
+Jamaica,631,841.0,839.0,CONCACAF,1.33,1.33
+Kenya,686,954.0,934.0,CAF,1.39,1.36
+Uganda,666,999.0,785.0,CAF,1.5,1.18
+Bolivia,508,523.0,998.0,CONMEBOL,1.03,1.96
+Peru,676,820.0,957.0,CONMEBOL,1.21,1.42
+Honduras,596,876.0,770.0,CONCACAF,1.47,1.29
+Guyana,296,393.0,518.0,CONCACAF,1.33,1.75
+Trinidad and Tobago,723,1230.0,946.0,CONCACAF,1.7,1.31
+Belarus,295,335.0,434.0,UEFA,1.14,1.47
+Ukraine,318,445.0,325.0,UEFA,1.4,1.02
+Barbados,288,364.0,500.0,CONCACAF,1.26,1.74
+Nicaragua,204,222.0,504.0,CONCACAF,1.09,2.47
+Greece,609,757.0,825.0,UEFA,1.24,1.35
+Cuba,380,512.0,576.0,CONCACAF,1.35,1.52
+Martinique,321,580.0,419.0,CONCACAF,1.81,1.31
+Dominica,201,238.0,406.0,CONCACAF,1.18,2.02
+Silesia,8,24.0,17.0,INVALID,3.0,2.12
+Guadeloupe,260,448.0,376.0,CONCACAF,1.72,1.45
+Israel,480,722.0,702.0,UEFA,1.5,1.46
+Indonesia,705,1187.0,1145.0,AFC,1.68,1.62
+Suriname,377,721.0,539.0,CONCACAF,1.91,1.43
+French Guiana,173,260.0,295.0,CONCACAF,1.5,1.71
+Saint Lucia,219,316.0,406.0,CONCACAF,1.44,1.85
+Colombia,610,773.0,710.0,CONMEBOL,1.27,1.16
+Panama,508,629.0,777.0,CONCACAF,1.24,1.53
+Venezuela,437,457.0,821.0,CONMEBOL,1.05,1.88
+Ecuador,567,692.0,893.0,CONMEBOL,1.22,1.57
+Saint Kitts and Nevis,209,353.0,334.0,CONCACAF,1.69,1.6
+Grenada,243,397.0,456.0,CONCACAF,1.63,1.88
+India,519,721.0,843.0,AFC,1.39,1.62
+Slovakia,345,491.0,429.0,UEFA,1.42,1.24
+Manchukuo,3,0.0,16.0,INVALID,0.0,5.33
+Croatia,376,647.0,379.0,UEFA,1.72,1.01
+Lebanon,319,360.0,461.0,AFC,1.13,1.45
+Puerto Rico,148,183.0,354.0,CONCACAF,1.24,2.39
+Afghanistan,137,138.0,278.0,AFC,1.01,2.03
+Iran,594,1122.0,470.0,AFC,1.89,0.79
+Mongolia,97,114.0,299.0,AFC,1.18,3.08
+Tanzania,576,642.0,859.0,CAF,1.11,1.49
+Zimbabwe,474,639.0,566.0,CAF,1.35,1.19
+Zambia,778,1225.0,828.0,CAF,1.57,1.06
+Iceland,501,601.0,834.0,UEFA,1.2,1.66
+Albania,378,360.0,571.0,UEFA,0.95,1.51
+Montenegro,150,178.0,199.0,UEFA,1.19,1.33
+Madagascar,304,415.0,457.0,CAF,1.37,1.5
+Mauritius,316,408.0,509.0,CAF,1.29,1.61
+Réunion,124,219.0,220.0,INVALID,1.77,1.77
+Zanzibar,205,187.0,434.0,INVALID,0.91,2.12
+Djibouti,105,73.0,386.0,CAF,0.7,3.68
+Ethiopia,395,536.0,572.0,CAF,1.36,1.45
+DR Congo,498,742.0,607.0,CAF,1.49,1.22
+South Korea,990,1761.0,899.0,AFC,1.78,0.91
+Vietnam,279,450.0,388.0,AFC,1.61,1.39
+Macau,139,111.0,429.0,AFC,0.8,3.09
+Dominican Republic,139,218.0,228.0,CONCACAF,1.57,1.64
+Cyprus,406,350.0,891.0,UEFA,0.86,2.19
+Sierra Leone,286,274.0,396.0,CAF,0.96,1.38
+Nigeria,631,955.0,637.0,CAF,1.51,1.01
+Syria,466,661.0,620.0,AFC,1.42,1.33
+Serbia,326,512.0,349.0,UEFA,1.57,1.07
+Taiwan,225,290.0,569.0,AFC,1.29,2.53
+Ghana,654,1038.0,681.0,CAF,1.59,1.04
+Burma,7,14.0,17.0,INVALID,2.0,2.43
+New Caledonia,258,686.0,361.0,OFC,2.66,1.4
+Vanuatu,202,385.0,434.0,OFC,1.91,2.15
+Fiji,252,593.0,403.0,OFC,2.35,1.6
+Myanmar,490,785.0,799.0,AFC,1.6,1.63
+Pakistan,239,224.0,564.0,AFC,0.94,2.36
+Sri Lanka,233,225.0,547.0,AFC,0.97,2.35
+German DR,298,506.0,361.0,INVALID,1.7,1.21
+Tahiti,236,650.0,359.0,OFC,2.75,1.52
+Gambia,249,248.0,345.0,CAF,1.0,1.39
+Hong Kong,425,600.0,717.0,AFC,1.41,1.69
+Singapore,675,903.0,1238.0,AFC,1.34,1.83
+Malaysia,814,1330.0,1182.0,AFC,1.63,1.45
+Guinea-Bissau,174,179.0,257.0,CAF,1.03,1.48
+Saarland,9,10.0,26.0,INVALID,1.11,2.89
+Burundi,203,227.0,272.0,CAF,1.12,1.34
+Kernow,12,32.0,19.0,INVALID,2.67,1.58
+Cambodia,281,308.0,738.0,AFC,1.1,2.63
+Thailand,840,1329.0,1258.0,AFC,1.58,1.5
+Vietnam Republic,195,364.0,312.0,INVALID,1.87,1.6
+Kyrgyzstan,177,206.0,297.0,AFC,1.16,1.68
+Moldova,279,225.0,476.0,UEFA,0.81,1.71
+North Vietnam,24,49.0,52.0,INVALID,2.04,2.17
+Togo,431,473.0,599.0,CAF,1.1,1.39
+North Korea,376,611.0,410.0,AFC,1.62,1.09
+Sudan,446,498.0,607.0,CAF,1.12,1.36
+Malta,441,283.0,999.0,UEFA,0.64,2.27
+Tunisia,650,931.0,663.0,CAF,1.43,1.02
+Libya,369,486.0,453.0,CAF,1.32,1.23
+Malawi,627,738.0,811.0,CAF,1.18,1.29
+Morocco,583,833.0,484.0,CAF,1.43,0.83
+Malaya,2,2.0,8.0,INVALID,1.0,4.0
+Benin,304,333.0,532.0,CAF,1.1,1.75
+Cape Verde,214,231.0,243.0,CAF,1.08,1.14
+Cameroon,595,848.0,632.0,CAF,1.43,1.06
+Central African Republic,124,139.0,233.0,CAF,1.12,1.88
+Mali,550,724.0,620.0,CAF,1.32,1.13
+Gabon,386,446.0,456.0,CAF,1.16,1.18
+Burkina Faso,438,535.0,599.0,CAF,1.22,1.37
+Ivory Coast,614,1003.0,627.0,CAF,1.63,1.02
+Congo,399,524.0,588.0,CAF,1.31,1.47
+Iraq,628,979.0,584.0,AFC,1.56,0.93
+Saint Vincent and the Grenadines,216,329.0,418.0,CONCACAF,1.52,1.94
+Senegal,611,825.0,583.0,CAF,1.35,0.95
+Laos,212,213.0,668.0,AFC,1.0,3.15
+Mauritania,251,185.0,406.0,CAF,0.74,1.62
+Liberia,285,250.0,418.0,CAF,0.88,1.47
+Chad,122,108.0,209.0,CAF,0.89,1.71
+Niger,240,228.0,398.0,CAF,0.95,1.66
+Guinea,522,709.0,646.0,CAF,1.36,1.24
+Algeria,586,881.0,596.0,CAF,1.5,1.02
+Kuwait,661,1041.0,728.0,AFC,1.57,1.1
+Jordan,450,569.0,501.0,AFC,1.26,1.11
+Papua New Guinea,146,320.0,298.0,OFC,2.19,2.04
+Solomon Islands,202,446.0,388.0,OFC,2.21,1.92
+Somalia,116,60.0,318.0,CAF,0.52,2.74
+Saudi Arabia,706,1099.0,738.0,AFC,1.56,1.05
+Bermuda,180,296.0,303.0,CONCACAF,1.64,1.68
+Palestine,225,308.0,324.0,AFC,1.37,1.44
+Yemen,255,231.0,566.0,AFC,0.91,2.22
+Bahrain,560,702.0,719.0,AFC,1.25,1.28
+Oman,516,678.0,653.0,AFC,1.31,1.27
+Wallis Islands and Futuna,24,23.0,109.0,INVALID,0.96,4.54
+Corsica,9,10.0,5.0,INVALID,1.11,0.56
+Western Australia,32,63.0,75.0,INVALID,1.97,2.34
+Eswatini,262,224.0,429.0,CAF,0.85,1.64
+Botswana,315,257.0,398.0,CAF,0.82,1.26
+Qatar,611,866.0,722.0,AFC,1.42,1.18
+Lesotho,281,221.0,441.0,CAF,0.79,1.57
+Bahamas,57,63.0,174.0,CONCACAF,1.11,3.05
+Brunei,126,100.0,425.0,AFC,0.79,3.37
+Cook Islands,52,42.0,261.0,OFC,0.81,5.02
+Yemen DPR,25,25.0,69.0,INVALID,1.0,2.76
+United Arab Emirates,588,834.0,733.0,AFC,1.42,1.25
+Faroe Islands,268,220.0,626.0,UEFA,0.82,2.34
+Nepal,257,222.0,587.0,AFC,0.86,2.28
+Antigua and Barbuda,221,303.0,401.0,CONCACAF,1.37,1.81
+Bangladesh,291,261.0,540.0,AFC,0.9,1.86
+Seychelles,170,135.0,367.0,CAF,0.79,2.16
+Equatorial Guinea,158,140.0,227.0,CAF,0.89,1.44
+Mozambique,355,364.0,453.0,CAF,1.03,1.28
+Guam,115,129.0,579.0,AFC,1.12,5.03
+Angola,396,447.0,411.0,CAF,1.13,1.04
+São Tomé and Príncipe,65,49.0,166.0,CAF,0.75,2.55
+Rwanda,264,276.0,317.0,CAF,1.05,1.2
+Northern Cyprus,34,98.0,31.0,INVALID,2.88,0.91
+Armenia,253,255.0,451.0,UEFA,1.01,1.78
+Georgia,286,350.0,401.0,UEFA,1.22,1.4
+Azerbaijan,290,222.0,475.0,UEFA,0.77,1.64
+Kazakhstan,248,292.0,407.0,UEFA,1.18,1.64
+Comoros,126,108.0,212.0,CAF,0.86,1.68
+Maldives,220,269.0,501.0,AFC,1.22,2.28
+Tonga,66,77.0,250.0,OFC,1.17,3.79
+Kiribati,11,7.0,126.0,OFC,0.64,11.45
+Tuvalu,39,45.0,208.0,OFC,1.15,5.33
+Samoa,60,92.0,186.0,OFC,1.53,3.1
+Greenland,76,145.0,154.0,INVALID,1.91,2.03
+Liechtenstein,239,98.0,673.0,UEFA,0.41,2.82
+Western Samoa,6,2.0,47.0,INVALID,0.33,7.83
+Bhutan,101,58.0,380.0,AFC,0.57,3.76
+South Yemen,3,1.0,8.0,INVALID,0.33,2.67
+Niue,2,0.0,33.0,OFC,0.0,16.5
+American Samoa,52,31.0,344.0,OFC,0.6,6.62
+Belize,107,109.0,206.0,CONCACAF,1.02,1.93
+Cayman Islands,106,105.0,265.0,CONCACAF,0.99,2.5
+Anguilla,79,42.0,320.0,CONCACAF,0.53,4.05
+British Virgin Islands,109,96.0,340.0,CONCACAF,0.88,3.12
+Palau,2,4.0,21.0,OFC,2.0,10.5
+Sint Maarten,50,75.0,131.0,CONCACAF,1.5,2.62
+Namibia,263,261.0,375.0,CAF,0.99,1.43
+Ynys Môn,65,123.0,96.0,CONIFA,1.89,1.48
+Shetland,55,97.0,108.0,CONIFA,1.76,1.96
+Åland Islands,51,77.0,86.0,CONIFA,1.51,1.69
+Saint Martin,56,84.0,144.0,CONCACAF,1.5,2.57
+San Marino,205,33.0,835.0,UEFA,0.16,4.07
+Montserrat,58,68.0,182.0,CONCACAF,1.17,3.14
+Slovenia,295,373.0,346.0,UEFA,1.26,1.17
+Isle of Wight,48,113.0,60.0,CONIFA,2.35,1.25
+Turkmenistan,169,250.0,261.0,AFC,1.48,1.54
+Tajikistan,186,273.0,262.0,AFC,1.47,1.41
+Uzbekistan,334,588.0,378.0,AFC,1.76,1.13
+Eritrea,71,48.0,121.0,CAF,0.68,1.7
+Czech Republic,349,620.0,353.0,UEFA,1.78,1.01
+Gibraltar,141,160.0,359.0,UEFA,1.13,2.55
+Isle of Man,53,163.0,80.0,CONIFA,3.08,1.51
+North Macedonia,286,341.0,391.0,UEFA,1.19,1.37
+Bosnia and Herzegovina,263,359.0,358.0,UEFA,1.37,1.36
+Canary Islands,4,11.0,3.0,INVALID,2.75,0.75
+Andorra,208,68.0,512.0,UEFA,0.33,2.46
+Frøya,33,59.0,124.0,CONIFA,1.79,3.76
+Hitra,19,24.0,82.0,CONIFA,1.26,4.32
+United States Virgin Islands,70,40.0,276.0,CONCACAF,0.57,3.94
+Northern Mariana Islands,30,27.0,129.0,OFC,0.9,4.3
+Turks and Caicos Islands,46,46.0,174.0,CONCACAF,1.0,3.78
+Micronesia,7,8.0,59.0,OFC,1.14,8.43
+Gotland,30,81.0,57.0,CONIFA,2.7,1.9
+Saare County,35,41.0,89.0,CONIFA,1.17,2.54
+Rhodes,18,29.0,19.0,CONIFA,1.61,1.06
+Monaco,24,41.0,88.0,CONCACAF,1.71,3.67
+Tibet,16,14.0,66.0,CONIFA,0.88,4.12
+Orkney,24,28.0,77.0,CONIFA,1.17,3.21
+Falkland Islands,33,31.0,121.0,CONMEBOL,0.94,3.67
+Mayotte,38,51.0,56.0,CAF,1.34,1.47
+Vatican City,7,4.0,17.0,INVALID,0.57,2.43
+Timor-Leste,68,60.0,233.0,AFC,0.88,3.43
+Sark,4,0.0,70.0,INVALID,0.0,17.5
+Sealand,12,27.0,30.0,CONIFA,2.25,2.5
+Occitania,33,103.0,38.0,CONIFA,3.12,1.15
+Chechnya,3,3.0,29.0,CONIFA,1.0,9.67
+Ambazonia,6,3.0,17.0,CONIFA,0.5,2.83
+Western Isles,32,48.0,73.0,CONIFA,1.5,2.28
+Kosovo,84,114.0,118.0,UEFA,1.36,1.4
+Republic of St. Pauli,4,10.0,5.0,INVALID,2.5,1.25
+Găgăuzia,3,2.0,9.0,CONIFA,0.67,3.0
+Crimea,5,7.0,11.0,CONIFA,1.4,2.2
+Sápmi,29,90.0,54.0,CONIFA,3.1,1.86
+Romani people,7,13.0,26.0,CONIFA,1.86,3.71
+Menorca,25,56.0,32.0,CONIFA,2.24,1.28
+Iraqi Kurdistan,27,61.0,27.0,CONIFA,2.26,1.0
+Padania,44,120.0,33.0,CONIFA,2.73,0.75
+Arameans Suryoye,10,16.0,12.0,CONIFA,1.6,1.2
+Gozo,11,28.0,23.0,CONIFA,2.55,2.09
+Two Sicilies,6,3.0,18.0,CONIFA,0.5,3.0
+Saint Barthélemy,10,25.0,30.0,CONCACAF,2.5,3.0
+Saint Pierre and Miquelon,7,2.0,78.0,CONCACAF,0.29,11.14
+Bonaire,32,53.0,84.0,CONCACAF,1.66,2.62
+Chagos Islands,16,28.0,76.0,CONCACAF,1.75,4.75
+Raetia,26,43.0,103.0,CONIFA,1.65,3.96
+Cilento,1,0.0,2.0,INVALID,0.0,2.0
+Western Sahara,5,11.0,16.0,INVALID,2.2,3.2
+Darfur,7,1.0,99.0,CONIFA,0.14,14.14
+Tamil Eelam,24,58.0,60.0,CONIFA,2.42,2.5
+South Sudan,65,42.0,117.0,CAF,0.65,1.8
+Abkhazia,32,51.0,26.0,CONIFA,1.59,0.81
+Artsakh,11,32.0,14.0,CONIFA,2.91,1.27
+Madrid,1,1.0,2.0,CONIFA,1.0,2.0
+Saugeais,1,1.0,1.0,CONIFA,1.0,1.0
+Ellan Vannin,22,54.0,32.0,CONIFA,2.45,1.45
+Somaliland,6,14.0,20.0,CONIFA,2.33,3.33
+Franconia,3,8.0,11.0,CONIFA,2.67,3.67
+South Ossetia,16,35.0,34.0,CONIFA,2.19,2.12
+County of Nice,9,19.0,13.0,CONIFA,2.11,1.44
+Seborga,1,2.0,3.0,CONIFA,2.0,3.0
+Székely Land,27,56.0,56.0,CONIFA,2.07,2.07
+Luhansk PR,6,9.0,12.0,CONIFA,1.5,2.0
+Donetsk PR,6,8.0,7.0,INVALID,1.33,1.17
+Felvidék,12,14.0,20.0,INVALID,1.17,1.67
+Panjab,19,54.0,30.0,INVALID,2.84,1.58
+Western Armenia,16,34.0,20.0,INVALID,2.12,1.25
+United Koreans in Japan,12,20.0,11.0,INVALID,1.67,0.92
+Kárpátalja,11,25.0,13.0,INVALID,2.27,1.18
+Délvidék,2,4.0,3.0,INVALID,2.0,1.5
+Barawa,12,16.0,46.0,INVALID,1.33,3.83
+Ryūkyū,1,0.0,9.0,INVALID,0.0,9.0
+Yorkshire,7,27.0,11.0,INVALID,3.86,1.57
+Surrey,1,3.0,1.0,INVALID,3.0,1.0
+Cascadia,7,23.0,14.0,INVALID,3.29,2.0
+Matabeleland,8,7.0,14.0,INVALID,0.88,1.75
+Kabylia,6,8.0,15.0,INVALID,1.33,2.5
+Parishes of Jersey,3,11.0,4.0,INVALID,3.67,1.33
+Chameria,7,14.0,8.0,INVALID,2.0,1.14
+Saint Helena,8,6.0,41.0,INVALID,0.75,5.12
+East Timor,4,0.0,13.0,INVALID,0.0,3.25
+Yoruba Nation,2,1.0,2.0,INVALID,0.5,1.0
+Biafra,3,2.0,1.0,INVALID,0.67,0.33
+Mapuche,2,3.0,2.0,INVALID,1.5,1.0
+Maule Sur,2,2.0,0.0,INVALID,1.0,0.0
+Aymara,2,1.0,4.0,INVALID,0.5,2.0
+Elba Island,1,5.0,0.0,INVALID,5.0,0.0
+West Papua,1,1.0,1.0,INVALID,1.0,1.0
+Ticino,2,2.0,13.0,INVALID,1.0,6.5
+Hmong,3,6.0,10.0,INVALID,2.0,3.33
